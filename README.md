@@ -2,7 +2,4 @@
 
 #### 🔴 Detailed Video: 
 
-https://www.youtube.com/watch?v=biqgb4tf9MA
-
-
-[![Alt text](https://user-images.githubusercontent.com/34673684/146775826-0da1cecc-bc6e-47c4-8cc3-0eefaf558462.png)](https://www.youtube.com/watch?v=biqgb4tf9MA)
+[![Alt text](https://user-images.githubusercontent.com/34673684/147357886-7cd2ca17-76bf-4b76-a231-b8ff6db6784f.png)](https://www.youtube.com/watch?v=biqgb4tf9MA)
